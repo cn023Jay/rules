@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN,api.githubcopilot.com
+  - DOMAIN,githubcopilot.com
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN,api.openai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,microsoftonline.com
