@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,tunein.com
+  - DOMAIN-KEYWORD,tunein
+  - DOMAIN,production.api.tunein.com
+  - DOMAIN,stream.tunein.com
+  - DOMAIN,opml.radiotime.com
+  - DOMAIN,cdn.tunein.com
+  - DOMAIN-SUFFIX,radio.net
+  - DOMAIN-SUFFIX,radiotime.com
+  - DOMAIN-SUFFIX,tunein.streamguys1.com
+  - DOMAIN,audio.itunes.apple.com
+  - DOMAIN,audio-ssl.itunes.apple.com
