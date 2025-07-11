@@ -1,0 +1,30 @@
+payload:
+  # TuneIn Radio
+  - DOMAIN-SUFFIX,tunein.com
+  - DOMAIN-KEYWORD,tunein
+  - DOMAIN,production.api.tunein.com
+  - DOMAIN,stream.tunein.com
+  - DOMAIN,opml.radiotime.com
+  - DOMAIN,audio-ssl.itunes.apple.com
+  - DOMAIN,cdn.tunein.com
+  - DOMAIN-SUFFIX,radio.net
+  - DOMAIN-SUFFIX,radiotime.com
+  - DOMAIN-SUFFIX,tunein.streamguys1.com
+  - DOMAIN,stream.tunein.com
+
+  # CNN
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-KEYWORD,cnn
+  - DOMAIN,cdn.cnn.com
+  - DOMAIN,edition.cnn.com
+  - DOMAIN,amp.cnn.com
+  - DOMAIN,cnn-cdn.com
+  - DOMAIN-SUFFIX,turner.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN,video.cnn.com
+  - DOMAIN,assets.cnn.com
+  - DOMAIN,mobile.cnn.com
+
+  # 
+  - DOMAIN,audio.itunes.apple.com
+  - DOMAIN,audio-ssl.itunes.apple.com
