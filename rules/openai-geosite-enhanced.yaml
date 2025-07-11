@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
