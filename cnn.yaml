@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-KEYWORD,cnn
+  - DOMAIN,cdn.cnn.com
+  - DOMAIN,edition.cnn.com
+  - DOMAIN,amp.cnn.com
+  - DOMAIN,cnn-cdn.com
+  - DOMAIN-SUFFIX,turner.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN,video.cnn.com
+  - DOMAIN,assets.cnn.com
+  - DOMAIN,mobile.cnn.com
